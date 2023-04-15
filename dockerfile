@@ -1,0 +1,2 @@
+From httpd
+COPY . /
